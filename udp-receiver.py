@@ -5,7 +5,6 @@ import signal
 import socket
 import threading
 import queue
-import mysql.connector
 import time
 import calendar
 import datetime
